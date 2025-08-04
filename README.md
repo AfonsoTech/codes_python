@@ -10,3 +10,4 @@ Contém desde os tipos de dados, concantenação de variáveis e incrementação
 
 Funciona assim, dentro de cada pasta terá os codigos relacionados a ela, organizados por uma numeração sequencial, uma descricão e por fim logo abaixo voce verá a estrutura do codigo em python.
 
+Console.Write
